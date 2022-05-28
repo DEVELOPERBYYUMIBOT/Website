@@ -169,6 +169,7 @@ html {
   font-family: 'Ubuntu', sans-serif;
   overflow-x: auto;
   position: relative;
+  heigth: 100vh;
 }
 .home .max-width {
   margin: auto 0 auto 150px;
